@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  background-image: url("https://s3.envato.com/files/59446209/preview.jpg") ;
+  background-attachment: fixed;
+  padding: auto;
+  
+  }
+.back{
+	background-color: white;
+	padding: auto;
+	margin: auto;
+}
